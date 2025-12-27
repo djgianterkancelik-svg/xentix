@@ -1,0 +1,2 @@
+# xentix
+mining app
